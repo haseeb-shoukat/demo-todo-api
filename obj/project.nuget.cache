@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3xOS24U3pQ=",
+  "success": true,
+  "projectFilePath": "/home/haseeb/Desktop/NET/demo-todo-api/demo-todo-api.csproj",
+  "expectedPackageFiles": [
+    "/home/haseeb/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "/home/haseeb/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
